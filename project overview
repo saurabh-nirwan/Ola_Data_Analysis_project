@@ -1,0 +1,89 @@
+🚖 Ola Data Analysis Project Report
+
+1. Introduction
+
+This project analyzes Ola ride booking data using Power BI to generate insights related to bookings, vehicle performance, and travel patterns. The dashboard helps in understanding business trends and supports data-driven decision-making.
+
+---
+
+2. Objective
+
+- Analyze booking performance across different vehicle types
+- Compare total bookings with successful bookings
+- Study average distance travelled per ride
+- Identify high-performing vehicle categories
+
+---
+
+3. Tools & Technologies
+
+- Power BI
+- Excel / CSV Dataset
+
+---
+
+4. Dataset Description
+
+The dataset includes:
+
+- Vehicle type
+- Booking values (total and successful)
+- Distance travelled
+- Ride-related metrics
+
+---
+
+5. Dashboard Description
+
+The dashboard focuses on vehicle type analysis and includes:
+
+- Vehicle Categories: Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike, E-Bike
+- Total Booking Value: Total number of bookings per vehicle
+- Success Booking Value: Completed rides
+- Average Distance Travelled: Distance per ride
+- Total Distance Travelled: Overall distance covered
+
+---
+
+6. Key Insights
+
+- Auto and E-Bike have the highest total bookings
+- Bike category has the highest successful bookings
+- E-Bike and Bike show the highest average distance travelled
+- Premium vehicles (Sedan, SUV) have lower bookings but stable performance
+- Auto category shows high usage with shorter travel distances
+
+---
+
+7. Analysis
+
+The analysis shows that affordable ride options such as Auto, Bike, and Mini dominate the booking volume. Premium categories contribute less in volume but maintain consistent performance. Distance travelled varies significantly depending on vehicle type.
+
+---
+
+8. Challenges Faced
+
+- Data cleaning and formatting issues
+- Managing large numerical values (K, M format)
+- Designing clear and interactive dashboard visuals
+
+---
+
+9. Conclusion
+
+The project highlights that Ola’s business is largely driven by affordable transportation options. Insights from this analysis can help improve pricing strategies, optimize vehicle allocation, and enhance customer satisfaction.
+
+---
+
+10. Future Scope
+
+- Add time-based analysis (peak hours)
+- Perform customer segmentation
+- Apply predictive analytics for demand forecasting
+
+---
+
+11. Author
+
+Sourabh Kumar
+Email: sourabhkuma54321@gmail.com
